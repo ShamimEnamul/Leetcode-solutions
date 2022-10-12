@@ -16,6 +16,9 @@ func containsDuplicate(nums []int) bool {
 	return false
 }
 
+// Runtime: 78 ms, faster than 89.12% of Go online submissions for Contains Duplicate.
+// Memory Usage: 8.6 MB, less than 77.05% of Go online submissions for Contains Duplicate.
+
 // func containsDuplicate(nums []int) bool {
 
 // 	for i := 0; i < len(nums); i++ {
